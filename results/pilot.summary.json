@@ -1,0 +1,42 @@
+{
+  "benign_complete_baseline": 1.0,
+  "benign_complete_data_only_attachment": 1.0,
+  "benign_complete_scope_aligned_judge": 1.0,
+  "benign_utility_delta_data_only_attachment": 0.0,
+  "benign_utility_delta_data_only_attachment_ci95": [
+    0.0,
+    0.0
+  ],
+  "benign_utility_delta_scope_aligned_judge": 0.0,
+  "benign_utility_delta_scope_aligned_judge_ci95": [
+    0.0,
+    0.0
+  ],
+  "bypass_attachment_baseline": 1.0,
+  "bypass_attachment_data_only_attachment": 0.0,
+  "bypass_attachment_scope_aligned_judge": 0.0,
+  "bypass_benign_baseline": 0.0,
+  "bypass_in_skill_baseline": 0.0,
+  "bypass_reduction_data_only_attachment": 1.0,
+  "bypass_reduction_data_only_attachment_ci95": [
+    1.0,
+    1.0
+  ],
+  "bypass_reduction_scope_aligned_judge": 1.0,
+  "bypass_reduction_scope_aligned_judge_ci95": [
+    1.0,
+    1.0
+  ],
+  "mode": "pilot",
+  "n_per_channel": 24,
+  "results_sha256": "a59621ee468d3448e63288690c5b76001f6415e71fd7b90db5c8ff662418f505",
+  "s2_accept_attachment_baseline": 1.0,
+  "s2_accept_benign_baseline": 1.0,
+  "s2_accept_in_skill_baseline": 0.0,
+  "s2_gap_attachment_minus_in_skill": 1.0,
+  "s2_gap_ci95": [
+    1.0,
+    1.0
+  ],
+  "seed": 1
+}
